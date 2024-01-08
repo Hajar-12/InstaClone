@@ -1,0 +1,7 @@
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+a{
+    color:black;
+    text-decoration: none;
+    
+}
